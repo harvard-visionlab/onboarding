@@ -3,7 +3,7 @@ notebooks and guides for getting setup with visionlab project infrastructure
 
 ## Sign up for a github account
 - https://github.com/
-- e-mail George your github username (FirstName LastName) and e-mail address
+- e-mail George your github name (FirstName LastName), username, and e-mail address (e.g., George Alvarez, grez72, grez72@gmail.com)
 
 ## Using Google Colab?
 If you are using google colab for your projects, the following notebooks can be helpful
